@@ -1,0 +1,8 @@
+c:\users\1\documents\visual studio 2012\Projects\DataBasesSample\DataBasesSample\bin\Debug\DataBasesSample.exe.config
+C:\Users\1\documents\visual studio 2012\Projects\DataBasesSample\DataBasesSample\obj\Debug\DataBasesSample.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2012\Projects\DataBasesSample\DataBasesSample\bin\Debug\DataBasesSample.exe
+C:\Users\1\documents\visual studio 2012\Projects\DataBasesSample\DataBasesSample\bin\Debug\DataBasesSample.pdb
+C:\Users\1\documents\visual studio 2012\Projects\DataBasesSample\DataBasesSample\obj\Debug\DataBasesSample.exe
+C:\Users\1\documents\visual studio 2012\Projects\DataBasesSample\DataBasesSample\obj\Debug\DataBasesSample.pdb
+C:\Users\1\documents\visual studio 2012\Projects\DataBasesSample\DataBasesSample\bin\Debug\Client.mdf
+C:\Users\1\documents\visual studio 2012\Projects\DataBasesSample\DataBasesSample\bin\Debug\Client_log.ldf
